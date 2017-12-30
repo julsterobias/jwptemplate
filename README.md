@@ -1,2 +1,2 @@
 # jwptemplate
-Basic wordpress scafolding template
+Basic wordpress scaffolding template
